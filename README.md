@@ -1,2 +1,2 @@
 # SecondRepo
-A second demo repository
+The second demo repository
